@@ -100,4 +100,10 @@ void app_main(void)
 
 ### 3. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
 
+![image](https://github.com/user-attachments/assets/8a812536-f0f3-4555-a187-337838187d4b)
+
+
+เมื่อรันโปรแกรมจะแสดง "Received data from queue == Hello from Demo_Task " ออกมา3ครั้งและหยุดการทำงานลงเนื่องจากมีการกำหนดว่าให้แสดงออกมาแค่3ตัว
+
+
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-8.md) 
