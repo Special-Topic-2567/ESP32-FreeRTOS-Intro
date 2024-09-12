@@ -17,8 +17,8 @@
 
 ![Alt text](./Pictures/Labs/FreeRTOS-Lab-Picture-03.PNG)
 
-
 3. รันโปรแกรมและอธิบายผลที่ได้
-
+![image](https://github.com/user-attachments/assets/6aab6706-6cba-4499-9bc1-8f2c42357df5)
+แสดงผล ออกเป็นคำว่า Hello My First Task ไปเรื่อยๆ 
 
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-2.md) 
