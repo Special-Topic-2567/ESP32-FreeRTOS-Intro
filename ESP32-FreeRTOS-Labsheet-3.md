@@ -65,5 +65,6 @@ void app_main(void)
 ```
 
 4. รันและบันทึกผลจากโปรแกรมข้างบน ได้ผลเหมือนหรือต่างกันอย่างไร
+![ภาพ](https://github.com/user-attachments/assets/97751964-c737-4b4f-a09b-2161733441ee)
 
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-4.md) 
