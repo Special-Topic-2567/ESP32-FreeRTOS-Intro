@@ -86,4 +86,8 @@ void app_main(void)
 
 ### 3. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
 
+![image](https://github.com/user-attachments/assets/f287a727-762b-427f-9dde-4b63b543ee16)
+
+เป็นการใช้ Interrupt จาก ฮาร์ดแวร์
+
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-7.md) 
