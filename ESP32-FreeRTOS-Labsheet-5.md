@@ -48,4 +48,17 @@ void My_First_Task(void * arg)
 
 4. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
 
+![image](https://github.com/user-attachments/assets/481f6eeb-b6e8-4c7f-9b58-83f553823f25)
+
+
+เมื่อเริ่มต้นโปรแกรม จะแสดงข้อความ myfirsttaskและmysecondtask พอนับถึง5 mysecondtaskก็จะถูกระงับและแสดงข้อความ"Second Task suspended"
+
+
+![image](https://github.com/user-attachments/assets/193b88c8-ee90-4f03-9307-848553d7fa61)
+เมื่อนับถึง10 mysecondtaskจะแสดงผลอีกครั้งโดยแสดงต่อจากเดิมและแสดงข้อความ"Second Task Resumed"
+
+
+
+
+
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-6.md) 
