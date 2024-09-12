@@ -47,7 +47,10 @@ void My_First_Task(void * arg)
 โดยปกติเราจะใส่ชื่อ task handle เป็นอาร์กิวเมนต์สำหรับฟังก์ชัน `vTaskDelete()`, `vTaskSuspend()` และ `vTaskResume()`  แต่การใส่อาร์กิวเมนต์เป็น `NULL` เช่น  `vTaskSuspend(NULL);` จะหมายถึงการกระทำกับ task ผู้ออกคำสั่งเอง 
 
 4. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
+![ภาพ](https://github.com/user-attachments/assets/f8f350bf-5e6e-476c-9564-9170cf8f2acf)
 
+![ภาพ](https://github.com/user-attachments/assets/a1042e39-f212-490a-8b50-8fe86e28b52d)
+![ภาพ](https://github.com/user-attachments/assets/aabae275-3ff7-4b90-bbad-0cd209c9c1e5)
 
 
 วิเคราะห์ผลลัพธ์
