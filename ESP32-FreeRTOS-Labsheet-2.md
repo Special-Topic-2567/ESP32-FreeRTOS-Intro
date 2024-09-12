@@ -95,5 +95,8 @@ void app_main(void)
 }
 
 ```
+รันโปรแกรมและอธิบายผลที่ได้ 
+
+
 
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-3.md) 
