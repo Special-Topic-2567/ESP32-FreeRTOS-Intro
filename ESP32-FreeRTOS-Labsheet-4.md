@@ -33,4 +33,9 @@ void My_First_Task(void * arg)
 
 4. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
 
+![image](https://github.com/user-attachments/assets/a997276b-319d-419f-85e5-e47170ed1c23)
+
+เมื่อครบ5แล้วจะแสดงผลครบ5ครั้งแล้วจะไม่แสดงค่าของSecond
+
+
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-5.md) 
