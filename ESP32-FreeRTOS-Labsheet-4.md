@@ -32,6 +32,7 @@ void My_First_Task(void * arg)
 
 
 4. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
+![ภาพ](https://github.com/user-attachments/assets/ea38d4f3-0fb0-4141-98e8-31cd75f2392e)
 
 
 
