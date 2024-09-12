@@ -47,5 +47,11 @@ void My_First_Task(void * arg)
 โดยปกติเราจะใส่ชื่อ task handle เป็นอาร์กิวเมนต์สำหรับฟังก์ชัน `vTaskDelete()`, `vTaskSuspend()` และ `vTaskResume()`  แต่การใส่อาร์กิวเมนต์เป็น `NULL` เช่น  `vTaskSuspend(NULL);` จะหมายถึงการกระทำกับ task ผู้ออกคำสั่งเอง 
 
 4. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
-
+![image](https://github.com/user-attachments/assets/2ca991cc-30ed-44ee-ad73-96e3ab364fe5)
+Task ทั้งสองจะทำงานพร้อมกันในตอนแรก โดยแสดงผลทุกวินาที
+แสดงผลข้อความ "Hello My First Task" 
+เมื่อค่า i == 5 Task แรกจะ suspend Task ที่สอง ดังนั้นจะไม่มีการแสดงข้อความจาก Task ที่สองอีก
+เมื่อค่า i == 10 Task ที่สองจะถูก resume และเริ่มแสดงผลต่อไป
+เมื่อค่า i == 15 Task ที่สองจะถูกลบ ดังนั้นจะไม่มีการแสดงข้อความจาก Task ที่สองอีก
+เมื่อค่า i == 20 Task แรกจะ suspend ตัวเอง ทำให้ทั้ง Task แรกและ Task ที่สองหยุดทำงาน
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-6.md) 
