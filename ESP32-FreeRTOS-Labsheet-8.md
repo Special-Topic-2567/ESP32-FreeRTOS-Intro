@@ -103,4 +103,10 @@ void app_main(void)
 
 ### 3. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
 
+![image](https://github.com/user-attachments/assets/e8005df2-9dbd-4246-bce5-7f91d9e088c0)
+
+## เมื่อกดปุ่ม, ISR จะถูกเรียกและส่งข้อมูลไปยัง queue
+
+
+
  
