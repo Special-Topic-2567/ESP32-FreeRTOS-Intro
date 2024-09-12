@@ -33,4 +33,14 @@ void My_First_Task(void * arg)
 
 4. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
 
+![image](https://github.com/user-attachments/assets/07b44f51-a43d-49d9-8846-3914a0a74675)
+
+เมื่อรันโปรแกรมจะแสดงผล MyfirsttaskและMysecondtask คู่กันไปเรื่อยๆจนนับเลขถึง5 Mysecondtaskจะไม่แสดงผลเนื่องจากในMyfirsttaskมีระบุไว้ว่า
+ถ้า i=5 จะลบmysecondtaskไป
+
+
+![image](https://github.com/user-attachments/assets/c22e2702-e35c-42af-9608-42aeea176e16)
+
+
+
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-5.md) 
