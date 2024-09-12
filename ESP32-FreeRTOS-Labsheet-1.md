@@ -19,6 +19,8 @@
 
 
 3. รันโปรแกรมและอธิบายผลที่ได้
+### printf("Hello My First Task %d\n", i); ปริ้น ออกมาทุกๆ 1 วิ
 
+![image](https://github.com/user-attachments/assets/8c9513df-e41c-439c-9a1a-23b7fa7bcae1)
 
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-2.md) 
