@@ -96,4 +96,11 @@ void app_main(void)
 
 ```
 
+ผลลัพท์ : monitor แสดงซ้ำ 5 ครั้ง แล้วจึง+1ไปเรื่อยๆ ดังนี้
+
+
+![image](https://github.com/user-attachments/assets/52a6b333-8386-4ed7-a9bb-5820692aba41)
+
+
+
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-3.md) 
