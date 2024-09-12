@@ -19,6 +19,10 @@
 
 
 3. รันโปรแกรมและอธิบายผลที่ได้
+ขึ้น Hello My First Task
+
+![image](https://github.com/user-attachments/assets/953b3178-e305-4bed-a685-9bb386b3d077)
+
 
 
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-2.md) 
