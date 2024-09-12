@@ -86,4 +86,15 @@ void app_main(void)
 
 ### 3. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
 
+
+![image](https://github.com/user-attachments/assets/62867344-8a3f-4458-9ba0-b8b242196e26)
+
+
+แสดงข้อความ Hello My First Task พร้อมตัวเลข ,Hello My Second Taskพร้อมตัวเลข จนถึง 5 แต่Hello My Second Taskพร้อมตัวเลข จะเปลี่ยนเป็น Second Task suspended แล้วก็แสดง Hello My First Task 6-10 เมื่อ i == 10 Hello My Second Task จะกลับมาทำงาน เมื่อ i == 15 Hello My Second Taskจะหยุดทำงาน แต่จะแสดงแค่Hello My First Task 16-20 จากนั้นจะแสดง MyFirstTaskHandle will suspend itself
+
+
+![image](https://github.com/user-attachments/assets/e4a6340c-7d06-42a1-aba4-24567df2d98e)
+
+เมื่อกดปุ่ม ไฟ LED จะสลับเปิด/ปิด และจะแสดงข้อความ Button pressed!
+
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-7.md) 
