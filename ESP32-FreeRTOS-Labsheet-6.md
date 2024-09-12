@@ -86,4 +86,9 @@ void app_main(void)
 
 ### 3. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
 
+![image](https://github.com/user-attachments/assets/2fc4eb78-e7f2-4311-a065-744144078145)
+
+## Task interrupt_task Task นี้ทำหน้าที่สลับสถานะของ LED (เปิด/ปิด) ทุกครั้งที่ได้รับการ Resume จาก ISR
+
+
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-7.md) 
