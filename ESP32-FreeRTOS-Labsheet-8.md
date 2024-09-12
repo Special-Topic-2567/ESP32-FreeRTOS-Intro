@@ -109,5 +109,10 @@ void app_main(void)
 
 ![ภาพ](https://github.com/user-attachments/assets/b6dce445-c918-4e19-acdd-4395404e6686)
 
+ การวิเคราะห์ผล
 
- 
+xQueueSendFromISR() ถูกใช้ใน ISR เพื่อส่งข้อมูลไปยัง task โดยที่ task รอรับผ่าน xQueueReceive()
+
+ระบบสามารถจัดการกับการกดปุ่มได้อย่างถูกต้องโดยใช้ queue เพื่อส่งข้อมูลจาก ISR ไปยัง task
+
+การกดปุ่มจะทำให้ LED ติดสว่างเป็นเวลา 1 วินาทีหลังจากที่รับข้อมูลจาก queue ได้สำเร็จ
