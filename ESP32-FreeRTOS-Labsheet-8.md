@@ -103,4 +103,8 @@ void app_main(void)
 
 ### 3. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
 
+![image](https://github.com/user-attachments/assets/fe9e6104-be96-4993-8557-9cc399bcee4d)
+
+- เมื่อปุ่มถูกกด, interrupt service routine (ISR) จะส่งข้อมูลไปยัง queue
+- Task ที่ทำงานบน core ที่กำหนดจะรับข้อมูลจาก queue และพิมพ์ข้อความออกมา
  
