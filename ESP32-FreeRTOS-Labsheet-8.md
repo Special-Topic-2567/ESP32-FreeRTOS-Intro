@@ -104,3 +104,10 @@ void app_main(void)
 ### 3. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
 
  ![ภาพ](https://github.com/user-attachments/assets/de9e5864-51f0-4258-a30c-85a9e92be49a)
+
+![ภาพ](https://github.com/user-attachments/assets/5b876a02-b19d-4157-82dc-31f50079ba3c)
+
+![ภาพ](https://github.com/user-attachments/assets/b6dce445-c918-4e19-acdd-4395404e6686)
+
+
+ 
