@@ -100,4 +100,10 @@ void app_main(void)
 
 ### 3. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
 
+ผลลัพธ์ : Task1 สร้าง queue ส่งข้อความ 3 ข้อความผ่าน queue โดยแต่ละข้อความจะถูกจัดเก็บใน queue เข้าสู่ลูปไม่รู้จบและมีการหน่วงเวลา 1 วินาทีในแต่ละรอบ Task2 รอรับข้อมูลจาก queue เมื่อได้รับข้อมูลจาก queue แสดงผลทาง monitor 
+
+
+![image](https://github.com/user-attachments/assets/25bf4af7-cfed-494e-88af-3c12dbacbc31)
+
+
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-8.md) 
