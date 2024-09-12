@@ -103,4 +103,8 @@ void app_main(void)
 
 ### 3. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
 
+ g,![image](https://github.com/user-attachments/assets/6e5dffbd-8581-4eaa-9be0-873a90de9fe2)
+ เมือ่กดปุ่มจะแสดงผลตามรูป
+
+
  
