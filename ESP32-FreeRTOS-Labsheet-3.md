@@ -50,6 +50,8 @@ void app_main(void)
 ```
 
 2. รันและบันทึกผลจากโปรแกรมข้างบน
+![ภาพ](https://github.com/user-attachments/assets/b2889a9e-be70-4b16-814c-677335920830)
+![ภาพ](https://github.com/user-attachments/assets/8808180c-0751-4660-a2fa-29a59620e235)
 
 3.  แก้ไข code ในส่วนของการสร้าง task 2 (ตามหมายเหตุหมายเลข 3) เป็นดังนี้
 
