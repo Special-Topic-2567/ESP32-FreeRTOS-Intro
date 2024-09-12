@@ -96,4 +96,7 @@ void app_main(void)
 
 ```
 
+## ![image](https://github.com/user-attachments/assets/7a099acd-8367-4a7a-a8f2-998b98390459)
+## ข้อความ "Hello My First Task" ถูกพิมพ์ออกมาหลายครั้งในคอนโซล แต่ไม่มีการแยกแยะระหว่าง Task แต่ละตัว เนื่องจาก i จะมีค่าเดียวสำหรับ Task ทั้งหมด
+
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-3.md) 
