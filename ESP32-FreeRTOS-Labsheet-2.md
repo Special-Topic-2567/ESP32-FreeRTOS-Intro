@@ -98,6 +98,7 @@ void app_main(void)
 รันโปรแกรมและอธิบายผลที่ได้ 
 ![ภาพ](https://github.com/user-attachments/assets/6bb932b2-3f26-4c0f-a75e-5465d32b56ef)
 
-
+สรุป
+โค้ดนี้ใช้ FreeRTOS เพื่อสร้าง Task หลายตัวที่ทำงานในลูปและพิมพ์ข้อความออกมาทุก 1 วินาที โดยแต่ละ Task จะพิมพ์ข้อความว่า "Hello My First Task" พร้อมเลขที่เพิ่มขึ้นทีละหนึ่งในทุก ๆ รอบของลูป
 
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-3.md) 
