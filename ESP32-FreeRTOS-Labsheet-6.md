@@ -85,5 +85,6 @@ void app_main(void)
 ```
 
 ### 3. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
+กดpush BT ![image](https://github.com/user-attachments/assets/9a0fa786-2149-47b0-974f-a4e6c06c03b4) ขึ้นแสดง"Button pressed!" ทุกครั้งที่ปุ่มถูกกด
 
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-7.md) 
