@@ -124,3 +124,7 @@ xQueueSendFromISR() ถูกใช้ใน ISR เพื่อส่งข้�
 
 ![458471911_498458173144783_3074311505671035779_n](https://github.com/user-attachments/assets/ba5f11c7-b2e3-44ad-a7ac-d76efd44d219)
 
+วิดิโอ
+https://vt.tiktok.com/ZS2mhLWcr/
+
+https://github.com/AnchisaPhetnoi/ESP-IDF-QueueFromISR.git
