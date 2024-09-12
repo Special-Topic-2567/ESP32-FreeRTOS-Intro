@@ -55,10 +55,20 @@ void My_First_Task(void * arg)
 
 
 ![image](https://github.com/user-attachments/assets/193b88c8-ee90-4f03-9307-848553d7fa61)
+
+
 เมื่อนับถึง10 mysecondtaskจะแสดงผลอีกครั้งโดยแสดงต่อจากเดิมและแสดงข้อความ"Second Task Resumed"
 
 
+![image](https://github.com/user-attachments/assets/3fec8dc1-e6b3-4b7d-beb0-8468545ec7fa)
 
 
+เมื่อนับถึง15 mysecondtaskจะถูกลบไปและแสดง"Second Task deleted"
+
+
+![image](https://github.com/user-attachments/assets/53c82781-a660-4656-9fea-ba0d846b118d)
+
+
+เมื่อนับถึง20 myfirsttaskก็จะถูกระงับและแสดงข้อความ"MyFirstTaskHandle will suspend itself"
 
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-6.md) 
