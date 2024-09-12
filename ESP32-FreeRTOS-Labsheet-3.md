@@ -70,7 +70,8 @@ void app_main(void)
 ผลลัพท์ : เหมือนกัน มีการแสดงผลที่เหมือนกันซึ่งมีทั้งHello My First Task,Hello My Second Task แล้ว+1 ไปเรื่อยๆ
 
 
-![image](https://github.com/user-attachments/assets/b7b4d5ba-f436-4bc8-92ba-04ba0eaccf72)
+![image](https://github.com/user-attachments/assets/c11d91fb-0dd5-4991-b3ef-37f96b9bf8ca)
+
 
 
 
