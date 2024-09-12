@@ -103,4 +103,8 @@ void app_main(void)
 
 ### 3. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
 
+ ![image](https://github.com/user-attachments/assets/6bddbd35-5696-4801-9915-f97da70903dd)
  
+ISR จะถูกเรียกและข้อมูล ('1') จะถูกส่งไปยัง queue
+
+หลังจากการกดปุ่ม จะเห็นข้อความ "Button pressed!" 
