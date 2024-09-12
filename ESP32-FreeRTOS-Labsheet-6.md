@@ -104,4 +104,8 @@ https://github.com/AnchisaPhetnoi/FreeRTOS_Task_1.git
 
 https://vt.tiktok.com/ZS2mrquuf/
 
+
+![458775522_534587922276895_5267206426365533474_n](https://github.com/user-attachments/assets/72dcab3f-09e5-4c50-8b03-1e37dcaed7e8)
+![458198490_550578324301244_5424822014845970735_n](https://github.com/user-attachments/assets/6fb93c33-34a3-4032-b168-13275fbf9271)
+
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-7.md) 
