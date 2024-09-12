@@ -102,5 +102,8 @@ void app_main(void)
 ```
 
 ### 3. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
+ผลลัพท์ : เมื่อกดปุ่ม จะขึ้นคำว่า Button pressed!
+
+![image](https://github.com/user-attachments/assets/25eda4cb-ff17-4c18-95f6-be7258b5ccf7)
 
  
