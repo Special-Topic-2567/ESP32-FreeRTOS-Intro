@@ -100,5 +100,8 @@ interrupt_task() จะสลับสถานะของ LED และพิ�
 
 https://github.com/AnchisaPhetnoi/FreeRTOS_Task_1.git
 
+วิดิโอ 
+
+https://vt.tiktok.com/ZS2mrquuf/
 
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-7.md) 
