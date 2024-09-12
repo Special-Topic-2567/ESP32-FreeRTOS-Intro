@@ -33,4 +33,9 @@ void My_First_Task(void * arg)
 
 4. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
 
+สั่งให้ถ้ามีการนับค่าจนถึง 5 จะลบ task ที่ 2
+
+![image](https://github.com/user-attachments/assets/fbc870f8-a3ce-4047-9728-c1de30534063)
+
+
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-5.md) 
