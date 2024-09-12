@@ -19,6 +19,6 @@
 
 3. รันโปรแกรมและอธิบายผลที่ได้
 ![image](https://github.com/user-attachments/assets/6aab6706-6cba-4499-9bc1-8f2c42357df5)
-แสดงผล ออกเป็นคำว่า Hello My First Task ไปเรื่อยๆ 
+แสดงผล ออกเป็นคำว่า Hello My First Task กับตัวเลขเพอ่มที่ละ+1 ไปเรื่อยๆ 
 
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-2.md) 
