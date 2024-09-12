@@ -51,7 +51,11 @@ void app_main(void)
 
 2. รันและบันทึกผลจากโปรแกรมข้างบน
 
-3.  แก้ไข code ในส่วนของการสร้าง task 2 (ตามหมายเหตุหมายเลข 3) เป็นดังนี้
+![image](https://github.com/user-attachments/assets/c37dc9bf-179e-4b07-9b37-3770019044fd)
+
+แสดงผล Hello My First Task กับ Hello My Second Task ตามลำดับ แยกกัน เนื่องจาก i คนละตัวกัน
+
+4.  แก้ไข code ในส่วนของการสร้าง task 2 (ตามหมายเหตุหมายเลข 3) เป็นดังนี้
 
 ```c
 void app_main(void)
@@ -63,5 +67,10 @@ void app_main(void)
 ```
 
 4. รันและบันทึกผลจากโปรแกรมข้างบน ได้ผลเหมือนหรือต่างกันอย่างไร
+
+![image](https://github.com/user-attachments/assets/e40b8822-8afd-4308-a7f8-469bc4616d8e)
+
+แสดง ผล Hello My First Task และ Hello My Second Task ตามลำดับ โดยเรียกใช้งานแต่ละ task
+
 
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-4.md) 
