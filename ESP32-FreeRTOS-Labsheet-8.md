@@ -103,4 +103,8 @@ void app_main(void)
 
 ### 3. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
 
+โค้ดรับค่าจากการกดปุ่ม button แล้วจะขึ้นTask ใน Terminal ว่าปุ่มมีการกด
+
+![image](https://github.com/user-attachments/assets/4e62a36d-ec80-428d-b1de-cb63964574cb)
+
  
