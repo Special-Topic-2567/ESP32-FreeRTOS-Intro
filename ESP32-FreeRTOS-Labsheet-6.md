@@ -86,4 +86,64 @@ void app_main(void)
 
 ### 3. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
 
+CODEที่แก้ไขแล้ว
+```
+#include <stdio.h>
+#include <stdbool.h>
+#include <unistd.h>
+
+#include "freertos/FreeRTOS.h"
+#include "freertos/task.h"
+#include "driver/gpio.h"
+#define LED_PIN 27
+#define PUSH_BUTTON_PIN 33
+
+TaskHandle_t ISR = NULL;
+
+
+void interrupt_task(void *arg)
+{
+  bool led_status = false;
+  while(1)
+  {
+    vTaskSuspend(NULL);
+    led_status = !led_status;
+    gpio_set_level(LED_PIN, led_status);
+    printf("Button pressed!\n");
+  }
+}
+
+
+void IRAM_ATTR button_isr_handler(void *arg)
+{
+  xTaskResumeFromISR(ISR);
+}
+
+void app_main(void)
+{
+  esp_rom_gpio_pad_select_gpio(PUSH_BUTTON_PIN);
+  esp_rom_gpio_pad_select_gpio(LED_PIN);
+
+  gpio_set_direction(PUSH_BUTTON_PIN, GPIO_MODE_INPUT);
+  gpio_set_direction(LED_PIN ,GPIO_MODE_OUTPUT);
+
+  gpio_set_intr_type(PUSH_BUTTON_PIN, GPIO_INTR_POSEDGE);
+
+  gpio_install_isr_service(0);
+
+  gpio_isr_handler_add(PUSH_BUTTON_PIN, button_isr_handler, NULL);
+
+  xTaskCreate(interrupt_task, "interrupt_task", 4096, NULL, 10, &ISR);
+}
+
+```
+
+ผลลัพธ์ 
+
+![image](https://github.com/user-attachments/assets/e2f32876-27f4-4860-940e-3f7f26556407)
+
+
+เมื่อกดปุ่มจะแสดงผลทางหน้าจอด้วยข้อความ " Button pressed!" และไฟติดในบอร์ด
+
+
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-7.md) 
