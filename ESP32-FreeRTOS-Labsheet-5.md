@@ -48,4 +48,8 @@ void My_First_Task(void * arg)
 
 4. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
 
+![image](https://github.com/user-attachments/assets/c1f1c01f-54cb-49a3-90a7-de90be30260d)
+
+จะแสดงผลของทั้งfirst และ second แค่4ครั้ง หลังจากนั้นจะแสดงค่าของfirst ไปจนถึง9และเริ่มนับใหม่
+
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-6.md) 
