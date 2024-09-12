@@ -86,4 +86,8 @@ void app_main(void)
 
 ### 3. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
 
+![image](https://github.com/user-attachments/assets/87a14590-5fb6-4851-8129-15d79a7fcf9c)
+เมื่อกดปุ่ม buttonแล้ว led จะติดดับ
+
+
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-7.md) 
