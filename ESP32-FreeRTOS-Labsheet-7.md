@@ -101,3 +101,5 @@ void app_main(void)
 ### 3. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
 
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-8.md) 
+
+ เมือ่กด ปุ่มจะแสดงคำว่า Hello ![image](https://github.com/user-attachments/assets/9fff752f-a901-40f4-a647-905b6984aa0a)
