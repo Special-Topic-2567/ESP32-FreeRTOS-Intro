@@ -19,6 +19,9 @@
 
 
 3. รันโปรแกรมและอธิบายผลที่ได้
+![image](https://github.com/user-attachments/assets/138630a7-8ca2-4a60-8170-ed5f85a8ce79)
+
+แสดงผลข้อความ "Hello My First Task (ตัวเลข)" โดยตัวเลขจะนับจำนวนข้อความข้างต้น
 
 
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-2.md) 
