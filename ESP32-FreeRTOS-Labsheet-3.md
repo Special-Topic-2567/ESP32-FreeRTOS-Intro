@@ -50,8 +50,12 @@ void app_main(void)
 ```
 
 2. รันและบันทึกผลจากโปรแกรมข้างบน
+ผลลัพท์ : มีการแสดงผล monitor 2ครั้ง แล้ว +1 
 
-3.  แก้ไข code ในส่วนของการสร้าง task 2 (ตามหมายเหตุหมายเลข 3) เป็นดังนี้
+![image](https://github.com/user-attachments/assets/43f09173-2e9c-4f6f-8009-1858d71ec018)
+
+
+4.  แก้ไข code ในส่วนของการสร้าง task 2 (ตามหมายเหตุหมายเลข 3) เป็นดังนี้
 
 ```c
 void app_main(void)
@@ -63,5 +67,12 @@ void app_main(void)
 ```
 
 4. รันและบันทึกผลจากโปรแกรมข้างบน ได้ผลเหมือนหรือต่างกันอย่างไร
+ผลลัพท์ : เหมือนกัน มีการแสดงผลที่เหมือนกันซึ่งมีทั้งHello My First Task,Hello My Second Task แล้ว+1 ไปเรื่อยๆ
+
+
+![image](https://github.com/user-attachments/assets/b7b4d5ba-f436-4bc8-92ba-04ba0eaccf72)
+
+
+
 
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-4.md) 
