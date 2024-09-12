@@ -96,4 +96,13 @@ void app_main(void)
 
 ```
 
+![image](https://github.com/user-attachments/assets/453b17af-28a9-42ee-9c63-21989d752b80)
+
+ข้อความที่แสดงจะมี4ข้อความต่อ1ชุดตัวเลขเนื่องจากโค้ดนี้ทั้งหมด4ตัว
+```
+xTaskCreate(My_First_Task, "Fitst_Task", 4096, NULL, 10, &MyFirstTaskHandle);
+
+```
+
+
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-3.md) 
