@@ -85,5 +85,17 @@ void app_main(void)
 ```
 
 ### 3. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
+![ภาพ](https://github.com/user-attachments/assets/496faf36-883b-4e4f-9cd0-e4527eddd67c)
+
+
+วิเคราะห์ผล
+
+
+เมื่อปุ่มถูกกด button_isr_handler() จะถูกเรียกจากการกดปุ่ม
+button_isr_handler() จะเรียก xTaskResumeFromISR(ISR) ซึ่งจะปลุก interrupt_task() ขึ้นมาทำงาน
+interrupt_task() จะสลับสถานะของ LED และพิมพ์ข้อความ "Button pressed!" ไปยังคอนโซล
+หลังจากที่ interrupt_task() ทำงานเสร็จ มันจะกลับเข้าสู่สถานะระงับ (suspended) รอการกดปุ่มถัดไป
+
+ถ้า LED สลับสถานะทุกครั้งที่กดปุ่มและข้อความแสดงในคอนโซล หมายความว่าโค้ดทำงานได้ตามที่คาดหวัง
 
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-7.md) 
