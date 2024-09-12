@@ -51,6 +51,9 @@ void app_main(void)
 
 2. รันและบันทึกผลจากโปรแกรมข้างบน
 
+![image](https://github.com/user-attachments/assets/e2689dda-817b-430e-8995-69ee66858da2)
+
+
 3.  แก้ไข code ในส่วนของการสร้าง task 2 (ตามหมายเหตุหมายเลข 3) เป็นดังนี้
 
 ```c
@@ -63,5 +66,10 @@ void app_main(void)
 ```
 
 4. รันและบันทึกผลจากโปรแกรมข้างบน ได้ผลเหมือนหรือต่างกันอย่างไร
+
+![image](https://github.com/user-attachments/assets/e8732d10-967d-4ce2-a687-38c18f8aaeb5)
+
+## xTaskCreate จะปล่อยให้ FreeRTOS จัดสรร Task ไปยัง Core ที่มีความเหมาะสมโดยอัตโนมัติ
+## xTaskCreatePinnedToCore จะบังคับให้ Task ทำงานบน Core ที่ระบุ ซึ่งช่วยให้คุณมีการควบคุมที่ดีกว่าเกี่ยวกับการทำงานของ Task บน Core เฉพาะ
 
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-4.md) 
