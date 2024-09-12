@@ -100,4 +100,16 @@ void app_main(void)
 
 ### 3. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
 
+![image](https://github.com/user-attachments/assets/807bb2d6-c2dd-4623-99a5-99e13313b94e)
+
+Task1:
+สร้าง queue
+ส่งข้อความ 3 ข้อความ ("Hello from Demo_Task 1", "Hello from Demo_Task 2", "Hello from Demo_Task 3") ไปยัง queue
+ทำงานในลูปไม่รู้จบ
+
+Task2:
+รับข้อความจาก queue และพิมพ์ออกมา
+
+
+
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-8.md) 
