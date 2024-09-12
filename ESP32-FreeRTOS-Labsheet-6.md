@@ -87,3 +87,7 @@ void app_main(void)
 ### 3. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
 
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-7.md) 
+
+![image](https://github.com/user-attachments/assets/e76f0025-5be0-4ac8-bdc6-9448ad69a5aa)
+
+กดปุ่มมีไฟขึ้นและมีการแสดงผลี่หน้าจอ
