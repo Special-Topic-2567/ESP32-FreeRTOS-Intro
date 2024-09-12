@@ -86,4 +86,8 @@ void app_main(void)
 
 ### 3. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
 
+เพิ่มLEDและปุ่มกดเข้ามาโดยการเพิ่มTaskที่โปรแกรมสามารถกดปุ่มแล้วTaskจะส่งสัญญาณว่าปุ่มถูกกด
+
+![image](https://github.com/user-attachments/assets/3dcd1ed9-82f6-4ce1-a319-dd637a74039f)
+
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-7.md) 
