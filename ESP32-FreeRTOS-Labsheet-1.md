@@ -19,6 +19,9 @@
 
 
 3. รันโปรแกรมและอธิบายผลที่ได้
+   
+![image](https://github.com/user-attachments/assets/b33c885a-eef5-4caa-a304-7f0613329e8b)
+
 
  โปรแกรมแสดงผล Hello My First Task ... ไปเรื่อยๆตามลำดับ 1 วิ
 
