@@ -103,4 +103,9 @@ void app_main(void)
 
 ### 3. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
 
+![image](https://github.com/user-attachments/assets/ee647eda-5fd1-4a40-9596-46a083710cfc)
+
+แสดงผลที่monitorเมื่อกดปุ่มbuttonแต่ledไม่ติด
+
+
  
