@@ -95,5 +95,8 @@ void app_main(void)
 }
 
 ```
+แสดงผลลัพธ์ดังนี้
+จะมี 5 Task ที่ทำงานพร้อมกันและแสดงผลพร้อมกัน แต่ละ Task จะเริ่มนับค่า i จาก 0 และเพิ่มขึ้นทุกวินาที รันโค้ด1000ms ทำงานในลูป 
+![image](https://github.com/user-attachments/assets/8239ffad-650a-44dc-ad24-27acd194a5cf)
 
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-3.md) 
