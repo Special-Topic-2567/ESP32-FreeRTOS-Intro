@@ -33,4 +33,9 @@ void My_First_Task(void * arg)
 
 4. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
 
+![image](https://github.com/user-attachments/assets/e435caef-9019-451b-a155-7be4395c4168)
+
+## vTaskDelete ในโค้ดนี้ช่วยให้สามารถลบ Task ที่ไม่ต้องการ  Handle ของ Task จะถูกตั้งค่าเป็น NULL หลังจาก Task ถูกลบออกแล้ว
+
+
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-5.md) 
