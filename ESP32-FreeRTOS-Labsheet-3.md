@@ -51,6 +51,9 @@ void app_main(void)
 
 2. รันและบันทึกผลจากโปรแกรมข้างบน
 
+![image](https://github.com/user-attachments/assets/323803f0-880d-4563-b4ec-e0d7fe370968)
+
+
 3.  แก้ไข code ในส่วนของการสร้าง task 2 (ตามหมายเหตุหมายเลข 3) เป็นดังนี้
 
 ```c
