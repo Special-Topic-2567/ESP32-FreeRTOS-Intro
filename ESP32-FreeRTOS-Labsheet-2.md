@@ -95,5 +95,9 @@ void app_main(void)
 }
 
 ```
+ขึ้น Hello My First Task ตามด้วยเลข ขึ้น4บรรนทัด
+
+![image](https://github.com/user-attachments/assets/2783fcda-5397-462b-ab3a-e68edeeda03d)
+
 
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-3.md) 
