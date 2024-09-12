@@ -64,4 +64,10 @@ void app_main(void)
 
 4. รันและบันทึกผลจากโปรแกรมข้างบน ได้ผลเหมือนหรือต่างกันอย่างไร
 
+ทำหน้าที่เหมือนกันต่างตรงมีแค่พารามิเตอร์เพิ่มเติมเพื่อระบุ core ที่ต้องการให้ tassk ทำงาน
+
+![image](https://github.com/user-attachments/assets/b0a90931-bd3d-4513-abab-3f13e681051e)
+
+
+
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-4.md) 
