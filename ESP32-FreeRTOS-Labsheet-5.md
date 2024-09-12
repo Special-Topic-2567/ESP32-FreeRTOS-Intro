@@ -60,5 +60,5 @@ Task ที่สองกลับมาทำงานต่อหลังจ
 เมื่อถึง i == 15 Task ที่สองถูกลบออกจากระบบด้วย vTaskDelete() ทำให้ไม่มีการพิมพ์ข้อความจาก Task ที่สองอีกต่อไป
 จน Task แรกหยุดการทำงานของตัวเองเมื่อ i == 20 ทำให้ไม่มี Task ใดที่ทำงานต่อ
 
-https://github.com/AnchisaPhetnoi/FreeRTOS_Task_1.git
+
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-6.md) 
