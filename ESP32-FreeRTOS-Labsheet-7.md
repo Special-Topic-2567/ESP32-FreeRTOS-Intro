@@ -99,5 +99,9 @@ void app_main(void)
 ```
 
 ### 3. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
+![image](https://github.com/user-attachments/assets/46c1049b-2da8-4623-b590-dddadbd2079f)
+Task1 จะส่งข้อมูลเข้าไปใน queue และไม่พิมพ์อะไรออกมา
+Task2 จะรับข้อมูลจาก queue และพิมพ์ข้อมูลที่ได้รับออกมา
+Task1 ทำหน้าที่เป็น producer และ Task2 เป็น consumer ของข้อมูลใน queue.
 
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-8.md) 
