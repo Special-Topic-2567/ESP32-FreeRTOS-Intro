@@ -97,3 +97,5 @@ void app_main(void)
 ```
 
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-3.md) 
+
+![image](https://github.com/user-attachments/assets/dfd32b42-b166-41fd-bc9b-0a56874d4abd)
