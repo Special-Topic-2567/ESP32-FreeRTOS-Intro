@@ -96,4 +96,8 @@ void app_main(void)
 
 ```
 
+![image](https://github.com/user-attachments/assets/926f87c3-739b-4230-984f-fd101769a755)
+
+ แสดงผล Hello My First Task .... ตามลำดับทั้ง 3 อัน เพราะ i การทำงานเดียวกัน
+
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-3.md) 
