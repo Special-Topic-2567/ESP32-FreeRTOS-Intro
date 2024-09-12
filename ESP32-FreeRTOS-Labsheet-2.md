@@ -96,6 +96,7 @@ void app_main(void)
 
 ```
 รันโปรแกรมและอธิบายผลที่ได้ 
+![ภาพ](https://github.com/user-attachments/assets/6bb932b2-3f26-4c0f-a75e-5465d32b56ef)
 
 
 
